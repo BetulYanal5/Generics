@@ -1,0 +1,13 @@
+C:\Users\Betul\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\Betul\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\Betul\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\Betul\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\Betul\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Betul\source\repos\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Betul\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\Betul\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\Betul\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\Betul\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Betul\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Betul\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Betul\source\repos\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
